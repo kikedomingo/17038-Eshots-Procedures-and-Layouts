@@ -1,0 +1,27 @@
+{
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": "sass",
+  "preprocessorStyleOutput": "css",
+  "projectDescription": "Bolierplate for emails SG. - SASS - 17038",
+  "projectName": "Email Templates 17038",
+  "publishedId": null,
+  "sass": {
+    "outputStyle": "nested",
+    "sourceMap": false,
+    "cache": false,
+    "lineNumbers": false,
+    "debugInfo": false,
+    "globbing": false
+  },
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "homepage",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": false
+}

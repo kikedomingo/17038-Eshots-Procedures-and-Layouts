@@ -1,0 +1,26 @@
+// -------------------------------------
+//    variables
+// -------------------------------------
+
+// -- colors ---------------------------
+
+	$base-color: #fafafa;
+	$comp-color: blue;
+	$third-color: blue;
+	$alt-1: grey;
+	$alt-2: white;
+	$white: #FFF;
+	$black: #000;
+
+// -- typography -----------------------
+
+	$body-font: Georgia, serif;
+	$header-font: $body-font;
+
+// -- links ----------------------------
+
+	$link-color: red;
+	$link-color-hover: darken($link-color, 10);
+	$link-color-visited: $link-color-hover;
+	$link-color-focus: darken($link-color-hover, 10);
+
