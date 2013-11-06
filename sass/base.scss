@@ -1,3 +1,14 @@
+// -- REMOVE ---------------------------
+body {font-family:$body-font;}
+
+// -- STYLES HERE ---------------------------
+.bodytable {background-color: $base-color;}
+
+.main-table {}
+
+.top-wrapper {}
+	.top-wrapper .main-table {}
+
 h1 {
 	color: $base-color;
 	background: $third-color;

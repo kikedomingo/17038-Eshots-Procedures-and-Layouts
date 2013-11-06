@@ -2,9 +2,10 @@
 
 TO DO:
 - Work out how to embed styles inside the header.
-- Create main index
+$done - Create main index
+- Improve main index
 
-- Solve image problems (it's a mess) -> directory
+$done - Solve image problems (it's a mess) -> directory
 
 KD. 4 November 2013
-v0.0.3 — Alpha
+v0.0.4 — Alpha
