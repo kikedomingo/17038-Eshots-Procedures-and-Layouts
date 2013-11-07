@@ -1,13 +1,9 @@
-/* [sass, sass, styles.scss] */
-/* line 2, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-/* line 5, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
 .bodytable {
   background-color: #cccccc; }
 
-/* line 12, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
 h1 {
   color: #cccccc;
   background: green; }
