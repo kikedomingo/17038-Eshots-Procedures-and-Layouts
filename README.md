@@ -8,4 +8,4 @@ $done - Create main index
 $done - Solve image problems (it's a mess) -> directory
 
 KD. 4 November 2013
-v0.0.5 — Alpha
+v0.0.6 — Alpha

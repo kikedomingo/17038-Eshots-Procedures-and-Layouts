@@ -1,9 +1,20 @@
 // -- REMOVE ---------------------------
-body {font-family:$body-font;}
+body {}
 
 // -- STYLES HERE ---------------------------
-.bodytable {background-color: $base-color;}
+body, html, .bodytable, .mainbgcolor {background-color: $base-color;}
 
+body {
+      width: 100%!important; 
+      height: 100% !important;
+      margin:0;
+      padding:0;
+      font-family:$body-font;
+    }
+
+    img {display: block}
+
+ 
 .main-table {}
 
 .top-wrapper {}

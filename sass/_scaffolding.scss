@@ -1,0 +1,17 @@
+// -- MEDIA QUERIES ---------------------------
+  @media only screen and (min-device-width: 600px) {
+    table[class=main-table] { width: 600px !important; }
+  }
+
+  @media only screen and (max-device-width: 480px) {
+    table[class=contenttable] { width: 100% !important; }
+    table[class=column] { width: 100% !important; }
+    img[class="headerimage"] { width: 100% !important;  }
+    p[class="none"] { display: none !important; }
+  }
+
+  img { 
+    max-width: 100%; 
+  }
+
+  table[class=main-table] { margin-left: 0px; margin-right: 0px; }

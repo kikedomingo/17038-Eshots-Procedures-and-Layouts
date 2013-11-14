@@ -1,9 +1,50 @@
+/* [sass, sass, styles.scss] */
+@media only screen and (min-device-width: 600px) {
+  /* line 3, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+  table[class=main-table] {
+    width: 600px !important; } }
+@media only screen and (max-device-width: 480px) {
+  /* line 7, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+  table[class=contenttable] {
+    width: 100% !important; }
+
+  /* line 8, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+  table[class=column] {
+    width: 100% !important; }
+
+  /* line 9, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+  img[class="headerimage"] {
+    width: 100% !important; }
+
+  /* line 10, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+  p[class="none"] {
+    display: none !important; } }
+/* line 13, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+img {
+  max-width: 100%; }
+
+/* line 17, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/_scaffolding.scss */
+table[class=main-table] {
+  margin-left: 0px;
+  margin-right: 0px; }
+
+/* line 5, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
+body, html, .bodytable, .mainbgcolor {
+  background-color: #f1f1f1; }
+
+/* line 7, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
 
-.bodytable {
-  background-color: #cccccc; }
+/* line 15, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
+img {
+  display: block; }
 
+/* line 23, /Users/kdomingo/SkyDrive/GITHUB-CLONE/17038-Eshots-Procedures-and-Layouts/sass/base.scss */
 h1 {
-  color: #cccccc;
+  color: #f1f1f1;
   background: green; }
